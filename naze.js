@@ -1027,7 +1027,7 @@ memey =`٬࿊⃟☃ MAKASIH KAK YANG UDAH SEWABOT SEMOGA LANCAR REZEKINYA JANGAN
             let jawab = `*${ucapanWaktu}*\n*Silahkan Klik Link Ini*`
             let buttons = [{ buttonId: 'rules', buttonText: { displayText: '❗Rules' }, type: 1 },{ buttonId: 'donasi', buttonText: { displayText: '🙏Donasi' }, type: 1 }]
             let buttonMessage = {
-  document: fs.readFileSync('./media/doc/Fake.pptx'),
+  document: fs.readFileSync('./media/doc/fake.pptx'),
   fileName : akulaku + (` | Halo ${pushname}`),
   mimetype: `${filsk}`,
   fileLength: jumhal,
@@ -3778,7 +3778,7 @@ let alfamart = `628111500959@s.whatsapp.net`
             let ments = [ownernya, me, ini_mark]
             let buttons = [{ buttonId: 'allmenu', buttonText: { displayText: '📖List Menu' }, type: 1 },{ buttonId: 'rules', buttonText: { displayText: '❗Rules' }, type: 1 },{ buttonId: 'donasi', buttonText: { displayText: '🙏Donasi' }, type: 1 }]
             let buttonMessage = {
-  document: fs.readFileSync('./media/doc/Fake.pptx'),
+  document: fs.readFileSync('./media/doc/fake.pptx'),
   fileName : akulaku + (` | Halo ${pushname}`),
   mimetype: `${filsk}`,
   fileLength: jumhal,
