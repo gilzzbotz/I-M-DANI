@@ -48,11 +48,11 @@ const hariiini = moment.tz('Asia/Jakarta').format('DD MMMM YYYY')
 const barat = moment.tz('Asia/Jakarta').format('HH:mm:ss')
 const tengah = moment.tz('Asia/Makassar').format('HH:mm:ss')
 const timur = moment.tz('Asia/Jayapura').format('HH:mm:ss')
-const nyoutube = ('NoxyBotz © 𝕰𝖗𝖎𝖈𝕯𝖊𝖛 2022')  //ubah di config biar ngk emror
-const foter = ('NoxyBotz © 𝕰𝖗𝖎𝖈𝕯𝖊𝖛 2022')
+const nyoutube = ('DaniBotz © 𝕰𝖗𝖎𝖈𝕯𝖊𝖛 2022')  //ubah di config biar ngk emror
+const foter = ('DaniBotz © 𝕰𝖗𝖎𝖈𝕯𝖊𝖛 2022')
 const ini_mark = `0@s.whatsapp.net`
 const ownernya = ownernomer + '@s.whatsapp.net'
-gambar = fs.readFileSync('./media/image/naze.jpg')
+gambar = fs.readFileSync('./media/image/DaniXd.jpg')
 
 //TIME
 const time2 = moment().tz('Asia/Jakarta').format('HH:mm:ss')  
