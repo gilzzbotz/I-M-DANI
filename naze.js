@@ -11,7 +11,7 @@ Yg Reupload Tanpa Kasih Cr
 Sc Akan Saya Encode
 
 Base : Hisoka
-Recode : Naze & ( Nama Lu )
+Recode : Naze & DaniXd
 
 **/
 
@@ -1005,10 +1005,10 @@ swenya = `┏━━⬣ 𝐏𝐫𝐢𝐜𝐞 𝐋𝐢𝐬𝐭 𝐎𝐧𝐞✨
 ┏━━⬣ 𝐌𝐢𝐧𝐚𝐭?𝐂𝐡𝐚𝐭♨️
 ┃💌 : SERING² DONASI✨
 ┃💌 : ==============
-┃💌 : wa.me/6281517621088
+┃💌 : wa.me/6281251549899
 ┃💌 : ==============
-┃💌 : Instagram : @ricxyz13
-┃💌 : YouTube : NoxyBotz
+┃💌 : Instagram : @danibotz_official
+┃💌 : YouTube : DaniXd
 ┗━━⬣`
 memey =`٬࿊⃟☃ MAKASIH KAK YANG UDAH SEWABOT SEMOGA LANCAR REZEKINYA JANGAN LUPA DONASI KAK ☕`
   but = [
@@ -1020,14 +1020,14 @@ memey =`٬࿊⃟☃ MAKASIH KAK YANG UDAH SEWABOT SEMOGA LANCAR REZEKINYA JANGAN
              }
             break
             case 'sc': {
-                m.reply('https://wa.me/6281517621088')
+                m.reply('https://wa.me/6281251549899')
             }
             break		 
             case 'subsyt': {
             let jawab = `*${ucapanWaktu}*\n*Silahkan Klik Link Ini*`
             let buttons = [{ buttonId: 'rules', buttonText: { displayText: '❗Rules' }, type: 1 },{ buttonId: 'donasi', buttonText: { displayText: '🙏Donasi' }, type: 1 }]
             let buttonMessage = {
-  document: fs.readFileSync('./media/doc/fake.pptx'),
+  document: fs.readFileSync('./media/doc/Fake.pptx'),
   fileName : akulaku + (` | Halo ${pushname}`),
   mimetype: `${filsk}`,
   fileLength: jumhal,
@@ -3737,7 +3737,7 @@ let kominfo = `628119224545@s.whatsapp.net`
 let alfamart = `628111500959@s.whatsapp.net`
             let ownernya = ownernomer + '@s.whatsapp.net'
             let me = m.sender
-            let jawab = `*Bot by EricDev* 
+            let jawab = `*Bot by DaniDev* 
 -Creator :  @${ownernya.split('@')[0]}\n-Lu : @${me.split('@')[0]}\n-Powered  : @${ini_mark.split('@')[0]}\n- :  @${qontak.split('@')[0]}\n- :  @${dana.split('@')[0]}\n- :  @${shopeeotp.split('@')[0]}\n- :  @${shopee.split('@')[0]}\n- :  @${tokopedia.split('@')[0]}\n- :  @${smartfrend.split('@')[0]}\n- :  @${getcontact.split('@')[0]}\n- :  @${facebook.split('@')[0]}\n- :  @${pasarpolis.split('@')[0]}\n- :  @${getcontact.split('@')[0]}\n- :  @${kominfo.split('@')[0]}\n- :  @${alfamart.split('@')[0]}`
             let ments = [ownernya, me, ini_mark, qontak, dana, shopeeotp, shopee, tokopedia, smartfrend, getcontact, facebook, pasarpolis, kominfo, alfamart]
             let buttons = [
@@ -3764,8 +3764,8 @@ let alfamart = `628111500959@s.whatsapp.net`
 ┃ *冬 Nama Bot: ${botname}*
 ┃ *冬 Owner: @${ownernya.split('@')[0]}*
 ┃ *冬 Powered  : @${ini_mark.split('@')[0]}*
-┃ *冬 My Love: ilaa><♡*
-┃ *冬 Email: noxybotz13@gmail.com*
+┃ *冬 My Love: Gda*
+┃ *冬 Email: danibotz@gmail.com*
 ┃ *冬 Lib : Baileys Multi Device*
 ┃ *冬 Prefix : Multi Prefix*
 ┃ *冬 Baterai : 100% ga dicas*
@@ -3778,7 +3778,7 @@ let alfamart = `628111500959@s.whatsapp.net`
             let ments = [ownernya, me, ini_mark]
             let buttons = [{ buttonId: 'allmenu', buttonText: { displayText: '📖List Menu' }, type: 1 },{ buttonId: 'rules', buttonText: { displayText: '❗Rules' }, type: 1 },{ buttonId: 'donasi', buttonText: { displayText: '🙏Donasi' }, type: 1 }]
             let buttonMessage = {
-  document: fs.readFileSync('./media/doc/fake.pptx'),
+  document: fs.readFileSync('./media/doc/Fake.pptx'),
   fileName : akulaku + (` | Halo ${pushname}`),
   mimetype: `${filsk}`,
   fileLength: jumhal,
@@ -4253,8 +4253,8 @@ let buttons = [{ buttonId: 'simplemenu', buttonText: { displayText: '⬅️Back'
 ┃ *冬 Nama Bot: ${botname}*
 ┃ *冬 Owner: @${ownernya.split('@')[0]}*
 ┃ *冬 Powered  : @${ini_mark.split('@')[0]}*
-┃ *冬 My Love: ilaa><♡*
-┃ *冬 Email: noxybotz13@gmail.com*
+┃ *冬 My Love: Gda*
+┃ *冬 Email: danibotz@gmail.com*
 ┃ *冬 Lib : Baileys Multi Device*
 ┃ *冬 Prefix : Multi Prefix*
 ┃ *冬 Baterai : 100% ga dicas*
