@@ -4567,7 +4567,7 @@ let buttons = [{ buttonId: 'simplemenu', buttonText: { displayText: '⬅️Back'
 │
 ╰────❍
 _Donasi Ngab_\n_Jangan Ngarep Free Mulu_`
-                let buttons = [{ buttonId: 'sewabot', buttonText: { displayText: '🕊️Sewa Bot' }, type: 1 },{ buttonId: owner', buttonText: { displayText: '🥶Owner' }, type: 1 }]
+                let buttons = [{ buttonId: 'sewabot', buttonText: { displayText: '🕊️'Sewa Bot }, type: 1 },{ buttonId: 'owner', buttonText: { displayText: '🥶Owner' }, type: 1 }]
             naze.sendMessage(m.chat, { caption: `${anu}`, location: { jpegThumbnail: await reSize(faall, 300, 200)}, buttons: buttons, footer: nyoutube, mentions: ments})
             }
             break
