@@ -4254,7 +4254,7 @@ let buttons = [{ buttonId: 'simplemenu', buttonText: { displayText: '⬅️Back'
 ┃ *冬 Owner: @${ownernya.split('@')[0]}*
 ┃ *冬 Powered  : @${ini_mark.split('@')[0]}*
 ┃ *冬 My Love: Gda*
-┃ *冬 Email: danibotz@gmail.com*
+┃ *冬 Email: gilzzbotzz@gmail.com*
 ┃ *冬 Lib : Baileys Multi Device*
 ┃ *冬 Prefix : Multi Prefix*
 ┃ *冬 Baterai : 100% ga dicas*
@@ -4567,7 +4567,7 @@ let buttons = [{ buttonId: 'simplemenu', buttonText: { displayText: '⬅️Back'
 │
 ╰────❍
 _Donasi Ngab_\n_Jangan Ngarep Free Mulu_`
-                let buttons = [{ buttonId: 'donasi', buttonText: { displayText: '🙏Donasi' }, type: 1 },{ buttonId: 'rules', buttonText: { displayText: '❗Rules' }, type: 1 }]
+                let buttons = [{ buttonId: 'sewabot', buttonText: { displayText: 'Sewa Bot' }, type: 1 },{ buttonId: owner', buttonText: { displayText: 'Owner' }, type: 1 }]
             naze.sendMessage(m.chat, { caption: `${anu}`, location: { jpegThumbnail: await reSize(faall, 300, 200)}, buttons: buttons, footer: nyoutube, mentions: ments})
             }
             break
