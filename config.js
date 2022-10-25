@@ -66,7 +66,7 @@ global.mygit = 'https://github.com/gilzzbot'
 global.myyt = 'https://youtube.com/channel/UCPH9AdS6UQImcRv6IFtQ5lg'
 global.myytv = 'https://youtube.com/channel/UCPH9AdS6UQImcRv6IFtQ5lg'
 global.mygc = "https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy"
-global.botname = 'DaniBotz-MD'
+global.botname = 'GilzzBotz-MD'
 global.akulaku = 'Bot By GilzzXCode'
 global.ytname = 'YT GilzzBotz'
 
