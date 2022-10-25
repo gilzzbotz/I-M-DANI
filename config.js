@@ -31,11 +31,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281251549899']
-global.ownernomer = "6281251549899"
-global.premium = ['6281251549899']
+global.owner = ['6285730794089']
+global.ownernomer = "6285730794089"
+global.premium = ['6285730794089']
 global.packname = 'DaniBotz'
-global.author = 'By DaniXd'
+global.author = 'By GilzXCode'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -62,13 +62,13 @@ global.limitawal = {
 }
 global.thumb = fs.readFileSync('./media/image/DaniXd.jpg')
 global.faall = fs.readFileSync('./media/image/Fake.jpg')
-global.mygit = 'https://github.com/YTDANIBOTZ'
-global.myyt = 'https://youtube.com/channel/UCuo4SSYAIVE73sQvgsQd5gQ'
-global.myytv = 'https://youtu.be/ey7qLuRBm5Y'
-global.mygc = "https://chat.whatsapp.com/E4mPMyGkTmpCdlJiVDoLp8"
+global.mygit = 'https://github.com/gilzzbot'
+global.myyt = 'https://youtube.com/channel/UCPH9AdS6UQImcRv6IFtQ5lg'
+global.myytv = 'https://youtube.com/channel/UCPH9AdS6UQImcRv6IFtQ5lg'
+global.mygc = "https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy"
 global.botname = 'DaniBotz-MD'
-global.akulaku = 'Bot By DaniXd'
-global.ytname = 'YT DaniXd'
+global.akulaku = 'Bot By GilzzXCode'
+global.ytname = 'YT GilzzBotz'
 
 
 let file = require.resolve(__filename)
