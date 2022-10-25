@@ -48,8 +48,8 @@ const hariiini = moment.tz('Asia/Jakarta').format('DD MMMM YYYY')
 const barat = moment.tz('Asia/Jakarta').format('HH:mm:ss')
 const tengah = moment.tz('Asia/Makassar').format('HH:mm:ss')
 const timur = moment.tz('Asia/Jayapura').format('HH:mm:ss')
-const nyoutube = ('DaniBotz © 𝕰𝖗𝖎𝖈𝕯𝖊𝖛 2022')  //ubah di config biar ngk emror
-const foter = ('DaniBotz © 𝕰𝖗𝖎𝖈𝕯𝖊𝖛 2022')
+const nyoutube = ('GilzBotz © 2022')  //ubah di config biar ngk emror
+const foter = ('GilzzBotz © 2022')
 const ini_mark = `0@s.whatsapp.net`
 const ownernya = ownernomer + '@s.whatsapp.net'
 gambar = fs.readFileSync('./media/image/DaniXd.jpg')
@@ -1005,10 +1005,10 @@ swenya = `┏━━⬣ 𝐏𝐫𝐢𝐜𝐞 𝐋𝐢𝐬𝐭 𝐎𝐧𝐞✨
 ┏━━⬣ 𝐌𝐢𝐧𝐚𝐭?𝐂𝐡𝐚𝐭♨️
 ┃💌 : SERING² DONASI✨
 ┃💌 : ==============
-┃💌 : wa.me/6281251549899
+┃💌 : wa.me/6285730794089
 ┃💌 : ==============
-┃💌 : Instagram : @danibotz_official
-┃💌 : YouTube : DaniXd
+┃💌 : Instagram : @rdtyzagilz
+┃💌 : Tiktok : @cahkonoaea
 ┗━━⬣`
 memey =`٬࿊⃟☃ MAKASIH KAK YANG UDAH SEWABOT SEMOGA LANCAR REZEKINYA JANGAN LUPA DONASI KAK ☕`
   but = [
@@ -1020,7 +1020,7 @@ memey =`٬࿊⃟☃ MAKASIH KAK YANG UDAH SEWABOT SEMOGA LANCAR REZEKINYA JANGAN
              }
             break
             case 'sc': {
-                m.reply('https://wa.me/6281251549899')
+                m.reply('https://wa.me/6285730794089')
             }
             break		 
             case 'subsyt': {
@@ -3737,7 +3737,7 @@ let kominfo = `628119224545@s.whatsapp.net`
 let alfamart = `628111500959@s.whatsapp.net`
             let ownernya = ownernomer + '@s.whatsapp.net'
             let me = m.sender
-            let jawab = `*Bot by DaniDev* 
+            let jawab = `*Bot by GilzDev* 
 -Creator :  @${ownernya.split('@')[0]}\n-Lu : @${me.split('@')[0]}\n-Powered  : @${ini_mark.split('@')[0]}\n- :  @${qontak.split('@')[0]}\n- :  @${dana.split('@')[0]}\n- :  @${shopeeotp.split('@')[0]}\n- :  @${shopee.split('@')[0]}\n- :  @${tokopedia.split('@')[0]}\n- :  @${smartfrend.split('@')[0]}\n- :  @${getcontact.split('@')[0]}\n- :  @${facebook.split('@')[0]}\n- :  @${pasarpolis.split('@')[0]}\n- :  @${getcontact.split('@')[0]}\n- :  @${kominfo.split('@')[0]}\n- :  @${alfamart.split('@')[0]}`
             let ments = [ownernya, me, ini_mark, qontak, dana, shopeeotp, shopee, tokopedia, smartfrend, getcontact, facebook, pasarpolis, kominfo, alfamart]
             let buttons = [
@@ -3765,7 +3765,7 @@ let alfamart = `628111500959@s.whatsapp.net`
 ┃ *冬 Owner: @${ownernya.split('@')[0]}*
 ┃ *冬 Powered  : @${ini_mark.split('@')[0]}*
 ┃ *冬 My Love: Gda*
-┃ *冬 Email: danibotz@gmail.com*
+┃ *冬 Email: gilzbotzz@gmail.com*
 ┃ *冬 Lib : Baileys Multi Device*
 ┃ *冬 Prefix : Multi Prefix*
 ┃ *冬 Baterai : 100% ga dicas*
