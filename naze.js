@@ -4533,7 +4533,7 @@ let buttons = [{ buttonId: 'simplemenu', buttonText: { displayText: '⬅️Back'
 𒆜 ${prefix}setexif
 𒆜 ${prefix}setmenu [option]
 ╰────❍
-_Gunakan Bot dengan Bijak_/n_Jangan Spam Bot`
+_Gunakan Bot dengan Bijak_\n_Jangan Spam Bot_`
                 let buttons = [{ buttonId: 'sewabot', buttonText: { displayText: '🕊️Sewa Bot' }, type: 1 },{ buttonId: 'owner', buttonText: { displayText: '🥶Owner' }, type: 1 }]
             naze.sendMessage(m.chat, { caption: `${anu}`, location: { jpegThumbnail: await reSize(faall, 300, 200)}, buttons: buttons, footer: nyoutube, mentions: ments})
             }
